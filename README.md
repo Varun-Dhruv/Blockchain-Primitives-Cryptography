@@ -18,4 +18,13 @@
 
 - https://pypi.org/project/pycrypto/
 
+### Public Key Cryptography Using RSA
+
+- https://opensource.com/article/21/4/encryption-decryption-openssl
+
+### Digital Signature using OpenSSL
+
+- https://pagefault.blog/2019/04/22/how-to-sign-and-verify-using-openssl/
+
+
 

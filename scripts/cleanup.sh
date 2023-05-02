@@ -30,6 +30,12 @@ then
 rm dec_base.png
 fi
 
+if test -f "varun_private.pem";
+then    
+rm varun_private.pem
+fi
 
-
-
+if test -f "varun_public.pem";
+then 
+rm varun_public.pem
+fi
